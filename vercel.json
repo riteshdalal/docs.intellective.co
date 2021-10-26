@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+        { "source": "/", "destination": "https://intellectivedemo5.service-now.com/docs" },          
+        { "source": "/:match*", "destination": "https://intellectivedemo5.service-now.com/:match*" }
+    ]
+}
